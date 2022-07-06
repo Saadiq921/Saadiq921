@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi there, I'm Saadiq Abubakar👋
 
-<!--
-**Saadiq921/Saadiq921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying at Thinkful. In the coming months my desire is to graduate as a full-stack engineer. I enjoy the problem solving aspect of software engineering, the collaborative effort of teamwork and the flexibility it brings. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on 🚧
+- MERN stack
+- Problem solving
+- Data structures and algorithms
+- Command line
+- Starting a medium blog
+
+### Finished Works 🔩⚙️
+- Loading...
+
+### 📫 How to reach me
+- saadiq404@gmail.com 📨
+- https://www.linkedin.com/in/saadiq921/ 📨
+
+### Tools 💻💾
+- HTML/CSS
+- Javascript
+- C++
+- React
+- Nodejs
+
+###  Currently learning 📚🧪
+- Clean code, Robert C. Martin 💡
+- cracking the coding interview, Gayle L. McDowel 💡
+- Eloquent Javascript, Marijn Haverbeke 💡
+- Understanding ECMAscript 6, Nicholas C. Zakas 💡
+- The pragmatic Programmer, Andy Hunt & Dave Thomas 💡
+
+### For fun
+- ⚽️ 🏋🏿‍♀️ 🚴🏿‍♂️ 🎟🎬
+- Researching new Topics 🔎🔎
+
+### Goals 🚀🪐
+- ##### Be a better developer today than you were yesterday 📆
+- ##### Progressively increase practical knowledge
