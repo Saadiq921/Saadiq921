@@ -1,6 +1,6 @@
 # Hi there, I'm Saadiq Abubakar👋
 
-I'm currently studying at Thinkful. In the coming months my desire is to graduate as a full-stack engineer. I enjoy the problem solving aspect of software engineering, the collaborative effort of teamwork and the flexibility it brings. 
+In the coming months my desire is to become as a full-stack engineer. I enjoy the problem solving aspect of software engineering, the collaborative effort of teamwork and the flexibility it brings. 
 
 ## Currently working on 🚧
 - MERN stack
